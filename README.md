@@ -1,0 +1,2 @@
+# myntr
+clone app
